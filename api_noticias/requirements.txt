@@ -1,0 +1,6 @@
+flask==1.1.2
+pymongo==3.9.0
+Flask-PyMongo==2.3.0
+wtforms_json==0.3.3
+email_validator==1.1.1
+flask-cors==3.0.9
